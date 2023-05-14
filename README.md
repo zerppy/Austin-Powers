@@ -1,4 +1,3 @@
-<title>Classes</title>
 <link rel="shortcut icon" href="favicon.png" type="image/png">
 1st Movie <button><a href="https://zerppy.github.io/Austin-Powers/1">1</a>
   
